@@ -2,8 +2,9 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9a71f9,100:fb98a2&height=180&text=Hello%20im%20jaehoon&animation=fadeIn&fontColor=ffffff&fontSize=40" />
     </div>
     <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> ###こんにちは、ｼﾞｮ・ジェフンと申します </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">  日本に住むソフトウェア開発者で、新しいの技術を探求し、個人プロジェクトで自己開発を頑張っています </div> 
+    <h2 > こんにちは😀 </h2>  
+    <div>  ・日本でソフトウェア開発者をしている韓国人です。💻</div> 
+    <div>  ・JAVAをメインに開発していて最近、新技術を勉強しています。</div> 
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 

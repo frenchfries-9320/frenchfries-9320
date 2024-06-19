@@ -16,8 +16,6 @@
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻  </h2> <br> 
         <div align="left">
-    <a href="mailto:jhk2636@icloud.com">
-    <img src="https://img.shields.io/badge/jhk2636@icloud.com-3693F3?style=for-the-badge&logo=icloud&logoColor=white"/>
   <a href="mailto:jhk2636@gmail.com">
     <img src="https://img.shields.io/badge/jhk2636@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>

@@ -2,7 +2,7 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9a71f9,100:fb98a2&height=180&text=Hello%20im%20jaehoon&animation=fadeIn&fontColor=ffffff&fontSize=40" />
     </div>
     <div style="text-align: left;"> 
-    <h2 > HELLO😀 </h2>  
+    <h2 > Hello😀 </h2>  
     <div>  ・日本でソフトウェア開発者をしている韓国人です。💻</div> 
     <div>  ・JAVAをメインに開発していて最近、新技術を勉強しています。</div> 
     </div>

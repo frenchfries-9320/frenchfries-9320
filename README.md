@@ -5,6 +5,7 @@
     <h2 > Hello😀 </h2>  
     <div>  ・日本でソフトウェア開発者をしている韓国人です。💻</div> 
     <div>  ・JAVAをメインに開発していて最近、新技術を勉強しています。</div> 
+    <div>  ・自動車関連のシステム開発を目指しています（アプリケーション、車ソフトウェア）。</div> 
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
